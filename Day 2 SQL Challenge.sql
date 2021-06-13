@@ -1,4 +1,4 @@
-/* SQL Prep  Daily SQL Challenge #2 */
+/* SQL Prep:Daily SQL Challenge #2 */
 
 /*
 Show the product code, product name, and quantity in stock of all products that have a purchase
