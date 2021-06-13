@@ -1,4 +1,4 @@
-/* SQL Prep  Daily SQL Challenge #1 */
+/* SQL Prep:Daily SQL Challenge #1 */
 
 /*
 Show the customer name for all customers who have ever made a payment over $100,000.
