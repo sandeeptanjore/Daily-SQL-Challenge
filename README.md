@@ -14,5 +14,6 @@ That said, at times some of the queries do not retrieve any data and that is bec
 a) either the seed data which I convered to Oracle is incorrect
 b) the schema does not have constraints (PK,FK)
 
+Additionally as I do not have access to WORLD schema/database I did not attempt to solve challenges related to the same. Hence the number of challenges are less than 100.
 
 The original site was hosted at: https://www.sqlprep.com/blog
